@@ -1,0 +1,25 @@
+{
+  "name": "jsonvalidator",
+  "version": "1.0.0",
+  "description": "jsonvalidator",
+  "main": "index.js",
+  "author": "Mahdi-Sarafraz",
+  "homepage": "https://github.com/Hardbitten/jsonvalidator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hardbitten/jsonvalidator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hardbitten/jsonvalidator.git/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "json-validator",
+    "jsonvalidator",
+    "validator"
+  ]
+}
